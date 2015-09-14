@@ -1,0 +1,77 @@
+{# INTRO SECTION #}
+
+{{ intro_paragraph }}
+
+
+{# GEM SECTION #}
+
+[center][img]http://i.imgur.com/5f2flrF.jpg[/img][/center]
+
+{% for gem in gem_list %}
+
+[center][url={{ gem['url'] }}] [img]{{ gem['banner'] }}[/img] [/url][/center]   
+
+{{ gem['text1'] }}
+
+[img]{{ gem['screenshot'] }}[/img] 
+
+{{ gem['text2'] }}
+
+{% endfor %}
+
+
+{# WHAT HAPPENED SECTION #}
+
+[center][img]http://i.imgur.com/QAoqBMe.jpg[/img][/center]  
+
+
+
+{% if loser_paragraphs %}
+
+[b][u]The Losers[/u][/b]
+
+{{ loser_paragraphs }}
+
+{% endif %}
+
+
+
+{% if winner_paragraphs %}
+
+[b][u]The Winners[/u][/b]
+
+{{ winner_paragraphs }}
+
+{% endif %}
+
+
+
+{% if running_paragraphs %}
+
+[center][img]http://i.imgur.com/2jRoLup.jpg[/img][/center]   
+
+{{ running_paragraphs }}
+
+{% endif %}
+
+
+{# BIGGIE SECTION #}
+
+[center][img]http://i.imgur.com/OjTu4aE.jpg[/img][/center]   
+
+{% for biggie in biggie_list %}
+
+[center][url={{ biggie['url'] }}] [img]{{ biggie['banner'] }}[/img] [/url][/center]   
+
+{{ biggie['text1'] }}
+
+[img]{{ biggie['screenshot'] }}[/img] 
+
+{{ biggie['text2'] }}
+
+{% endfor %}
+
+
+{# CLOSING SECTION #}
+
+{{ conclusion_paragraph }}
