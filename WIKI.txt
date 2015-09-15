@@ -29,9 +29,9 @@ Graphics: <ONE OR MULTIPLE NAMES>
 
 === Hidden Gems ===
 
-[https://www.kickstarter.com/projects/782536717/chime-sharp-the-classic-music-puzzle-game-returns Chime Sharp] - Musical puzzle game. Includes a WebGL demo. Goal: POUND10k, 140% funded with 10 days to go. (Ends on 10 August)
+[https://www.kickstarter.com/projects/782536717/chime-sharp-the-classic-music-puzzle-game-returns Chime Sharp] - Musical puzzle game. Includes a WebGL demo. Goal: £10k, 140% funded with 10 days to go. (Ends on 10 August)
 
-[https://www.kickstarter.com/projects/979326719/the-last-time-a-narrative-driven-point-and-click-a The Last Time] - Point-n-click adventure with pixel graphics. Demo included. Goal: POUND4k, almost 70% funded with 12 days remaining. (Ends on 12 August)
+[https://www.kickstarter.com/projects/979326719/the-last-time-a-narrative-driven-point-and-click-a The Last Time] - Point-n-click adventure with pixel graphics. Demo included. Goal: £4k, almost 70% funded with 12 days remaining. (Ends on 12 August)
 
 [https://www.indiegogo.com/projects/tower-unite Tower Unite] - Online virtual world without microtransactions. Goal: $50k, flexible; at 110% by more than 1,500 backers with 2 weeks to go. (Ends on 13 August)
 
@@ -63,7 +63,7 @@ Another three weeks have passed, and The Funding Crowd is back with a new batch 
 
 === Losers ===
 
-[https://www.kickstarter.com/projects/731043103/renoir RENOIR] campaign picked up over 500 backers, but never gained the level of momentum needed for the POUND39k goal. Do not count out this project just because the initial campaign "died"... the project creators continue to look for other sources of funding, so if they are successful it would be rather appropriate for this Noir story about a dead detective working on his own murder case.
+[https://www.kickstarter.com/projects/731043103/renoir RENOIR] campaign picked up over 500 backers, but never gained the level of momentum needed for the £39k goal. Do not count out this project just because the initial campaign "died"... the project creators continue to look for other sources of funding, so if they are successful it would be rather appropriate for this Noir story about a dead detective working on his own murder case.
 
 === Winners ===
 
@@ -73,7 +73,7 @@ The successful funding of [https://www.kickstarter.com/projects/749930024/defect
 
 Oddly enough, [https://www.kickstarter.com/projects/onedreamer/one-dreamer/ One Dreamer] is on its way to become reality, rather than just a crazy dream of its creator. It was a close finish, exceeding the goal by just 1% in the final hours!
 
-[https://www.kickstarter.com/projects/1255217702/quern-undying-thoughts Quern] ended up breaking POUND25k, 125% of the original goal and a figure which allows the small indie studio Zadbox the luxury of working on their beautiful and mysterious Myst-inspired world on a full-time basis for a while.
+[https://www.kickstarter.com/projects/1255217702/quern-undying-thoughts Quern] ended up breaking £25k, 125% of the original goal and a figure which allows the small indie studio Zadbox the luxury of working on their beautiful and mysterious Myst-inspired world on a full-time basis for a while.
 
 == Biggies ==
 
@@ -126,7 +126,7 @@ Calm Waters is a mystery point-and-click adventure, described by the developers 
 
 The game follows the story of Peter Taylor, who lost his wife to cancer three years ago. Broken down, and in need of change, he decides to take a vacation to a calm tropical island. When he arrives, he soon discovers that there's something strange going on on the island. People are vanishing, one by one, and the locals don't even raise an eyebrow at the disappearances.
 
-This campaign will be funded if the moderate goal of POUND5000 is reached within the next three weeks, and you can help by pledging a mere POUND5 for a digital copy on release. If you're feeling vain, you can either get your name in the credits by pledging POUND10, or that and your face on a missing person poster for POUND25 or more.
+This campaign will be funded if the moderate goal of £5000 is reached within the next three weeks, and you can help by pledging a mere £5 for a digital copy on release. If you're feeling vain, you can either get your name in the credits by pledging £10, or that and your face on a missing person poster for £25 or more.
 
 == Conclusion ==
 
@@ -148,7 +148,7 @@ Please PM one of the team: ([b]scaine[/b], [b]Speedster[/b], [b]muntdefems[/b], 
 
 Banner Height = 125px 
 
-Banner Width = 300px APPROX ~25px
+Banner Width = 300px ± ~25px
 
 Placement number 
 * font

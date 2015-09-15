@@ -4,9 +4,14 @@ import os, sys, re
 import wikitextparser
 import jinja2
 
+## compatibility hack: teach python2 to open files with an encoding
+if sys.version_info[0] < 3:
+    import codecs
+    open = codecs.open
+
 ## input side of conversion: extract standard sections from file containing wiki draft
 def read_wiki_data(input_filename):
-    fp = open(input_filename)
+    fp = open(input_filename, "r", encoding="utf-8")
     input_text = fp.readlines()
     fp.close()
     input_text = "".join(input_text)
@@ -129,13 +134,11 @@ template = env.get_template(templ_filename)
 bbcode_sections = reformat_wiki_data(input_filename)
 #DBG#for name in bbcode_sections.keys():
 #DBG#  print("Section %s:\n%s" % (name, bbcode_sections[name]))
-for name in bbcode_sections.keys():
-  print("Section %s:\n%s" % (name, bbcode_sections[name]))
 
 # insert imported data into template
 bbcode_article = template.render(bbcode_sections)
 
 # save result to output file
-fp = open(output_filename, "w")
+fp = open(output_filename, "w", encoding="utf-8")
 fp.write(bbcode_article)
 fp.close()
