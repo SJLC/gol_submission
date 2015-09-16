@@ -44,13 +44,13 @@ def pairs(input_list):
 
 def wiki_to_bbcode(text):
     # translate bold to bbcode
-    text = re.sub(r"'''([^']+)'''",r"[b]\1[\\b]", text)
+    text = re.sub(r"'''([^']+)'''",r"[b]\1[/b]", text)
 
     # translate italics to bbcode
-    text = re.sub(r"''([^']+)''",r"[i]\1[\\i]", text)
+    text = re.sub(r"''([^']+)''",r"[i]\1[/i]", text)
 
     # translate urls to bbcode
-    text = re.sub(r"\[(http[^ ]+) ([^]]+)\]", r"[url=\1]\2[\\url]", text)
+    text = re.sub(r"\[(http[^ ]+) ([^]]+)\]", r"[url=\1]\2[/url]", text)
 
     return text
 
