@@ -70,8 +70,7 @@ def reformat_wiki_data(input_filename):
 
 
     # translate gem and biggie sections into lists
-    #for list_type in ["gem", "biggie"]:
-    for list_type in ["gem"]:
+    for list_type in ["gem", "biggie"]:
         list_name = list_type + "_list" # e.g. gem_list 
         section_name = list_type + "_paragraphs" # e.g. gem_paragraphs
         paragraphs = article_sections[section_name]
@@ -83,41 +82,72 @@ def reformat_wiki_data(input_filename):
 
         # split into subsection for each project 
         projects = re.split(r"(===[^=]+===)", paragraphs)
-        projects = filter(None, projects) # get rid of empty strings after split()
+        projects = list(filter(None, projects)) # get rid of empty strings after split()
         for (proj_header, proj_body) in pairs(projects):
             entry = {}
+
+            #DBG#print("HEADER:", proj_header.encode('utf-8'))
+            #DBG#print("BODY:", proj_body.encode('utf-8'))
 
             # pick out url from project header
             
             # "=== [http://some/url this is the name] ==="
             # grab http://some/url
-            try:
-                url = re.search(r"\[(http\S+)", proj_header).group(1)
-            except:
+            match_result = re.search(r"\[(http\S+)", proj_header)
+            if match_result:
+                url = match_result.group(1)
+            else:
                 url = "INVALID_URL"
-                print("Failed to find url in header:\n%s" % proj_header.encode('utf-8'))
+                print("Failed to find url, header:%s" % proj_header.encode('utf-8'))
+
+            # work on separate copy (preserve original for reporting in case of errors)
+            body = proj_body  
 
             # pick out banner, screenshot, text1, text2 from the project body
+
             
             # "Banner http://banner/url blah blah"
             # grab http://banner/url
-            try:
-                banner = re.search(r"banner (http\S+)", proj_body, re.IGNORECASE).group(1)
-            except:
+            match_result = re.search(r"banner (http\S+)", body, re.IGNORECASE)
+            if match_result:
+                banner = match_result.group(1)
+                # strip the matching text off of body, it is "used up"
+                body = re.sub(r"\s*banner (http\S+)\s*", "", body, flags=re.IGNORECASE)
+            else:
                 banner = "INVALID_BANNER"
-                print("Failed to find banner in body:\n%s" % proj_body.encode('utf-8'))
+                # strip off of body, process rest
+                print("Failed to find banner, header:%s, body:\n%s" % 
+                      (proj_header.encode('utf-8'), proj_body.encode('utf-8')))
 
             # "Screenshot http://screenshot/url blah blah"
             # grab http://screenshot/url
-            try:
-                screenshot = re.search(r"screenshot (http\S+)", proj_body, re.IGNORECASE).group(1)
-            except:
+            match_result = re.search(r"screenshot (http\S+)", body, re.IGNORECASE)
+            if match_result:
+                screenshot = match_result.group(1)
+                # strip the matching text off of body, it is "used up"
+                body = re.sub(r"\s*screenshot (http\S+)\s*", "", body, flags=re.IGNORECASE)
+            else:
                 screenshot = "INVALID_SCREENSHOT"
-                print("Failed to find screenshot in body:\n%s" % proj_body.encode('utf-8'))
+                print("Failed to find screenshot, header:%s, body:\n%s" % 
+                      (proj_header.encode('utf-8'), proj_body.encode('utf-8')))
 
-            #@@@ TODO
-            text1 = "PRE-SCREENSHOT PARAGRAPH"
-            text2 = "POST-SCREENSHOT PARAGRAPH(S)"
+            # split on newlines to separate first paragraph from subsequent paragraphs
+            text = re.split(r"\n", body)
+            text = list(filter(None, text)) # get rid of empty strings after split()
+
+            if len(text) > 0:
+                text1 = text[0]
+            else:
+                text1 = "MISSING PRE-SCREENSHOT PARAGRAPH"
+                print("Failed to find pre-screenshot paragraph, header:%s body:\n%s" % 
+                      (proj_header.encode('utf-8'), proj_body.encode('utf-8')))
+
+            if len(text) > 1:
+                text2 = "\n".join(text[1:])
+            else:
+                text2 = "MISSING POST-SCREENSHOT PARAGRAPH(S)"
+                print("Failed to find post-screenshot paragraph(s), header:%s body:\n%s" % 
+                      (proj_header.encode('utf-8'), proj_body.encode('utf-8')))
 
             entry = { "url": url,
                       "banner": banner,
@@ -125,8 +155,6 @@ def reformat_wiki_data(input_filename):
                       "text1": wiki_to_bbcode(text1),
                       "text2": wiki_to_bbcode(text2) }
 
-            #DBG#print("HEADER:", proj_header.encode('utf-8'))
-            #DBG#print("BODY:", proj_body.encode('utf-8'))
             #DBG#print("ENTRY:", entry.encode('utf-8'))
 
             reformatted_sections[list_name].append(entry)
