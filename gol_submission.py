@@ -143,7 +143,7 @@ def reformat_wiki_data(input_filename):
                       (proj_header.encode('utf-8'), proj_body.encode('utf-8')))
 
             if len(text) > 1:
-                text2 = "\n".join(text[1:])
+                text2 = "\n\n".join(text[1:])
             else:
                 text2 = "MISSING POST-SCREENSHOT PARAGRAPH(S)"
                 print("Failed to find post-screenshot paragraph(s), header:%s body:\n%s" % 
