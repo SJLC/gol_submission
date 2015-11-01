@@ -1,0 +1,200 @@
+= Draft targeted for 2015-10-11 =
+
+Covers crowdfunding news from 2015-09-13 through 2015-10-11
+
+= Volunteers =
+
+Collect candidate projects: <NAME>
+
+Nominate projects: <NAME>
+(others are welcome to chip in a suggestion or two)
+
+Order nominated projects: <NAME>
+
+Writing: 
+* Intro: <NAME>
+* What Happened: <NAME>
+* Still in the Running: <NAME>
+* New picks: <MULTIPLE NAMES>
+
+Graphics: <ONE OR MULTIPLE NAMES>
+
+= Working space =
+
+== Nominated projects ==
+
+=== Biggies ===
+
+<PROJECTS OVER $100k>
+
+[https://www.kickstarter.com/projects/allisonroad/allison-road-first-person-next-gen-survival-horror Allison Road] - first-person "next gen" survival horror. Goal: £250k. Ends: 21 October. Note: Will be released for Windows first.
+
+[https://www.kickstarter.com/projects/webeharebrained/battletech BATTLETECH] - turn-based tactical mech combat by Harebrained Schemes. Goal: $250k (currently at $1.5m). Ends: 3 November. Note: Covered on [https://www.gamingonlinux.com/articles/a-new-battletech-game-from-harebrained-schemes-is-on-kickstarter-funded-already.6002 GOL]
+
+[https://www.kickstarter.com/projects/orionprelude/guardians-of-orion Guardians of Orion] - prequel and spiritual successor to ORION: Prelude. Goal: $200k. Ends: 27 October
+
+=== Hidden Gems ===
+
+<PROJECTS UNDER $100k>
+
+[https://www.kickstarter.com/projects/rhombusstudios/lord-of-rigel Lord of Rigel] - single-player turn-based 4X space strategy game. Goal: $90k. Ends: 4 November.
+
+[https://www.kickstarter.com/projects/983397390/the-journey-down The Journey Down] - final chapter of the point-and-click trilogy. Goal: kr 300 SEK (~$35k). Ends: 31 October. Note: Covered on [https://www.gamingonlinux.com/articles/the-journey-down-on-kickstarter-funding-final-chapter-of-pointandclick-trilogy.6011 GOL]
+
+[https://www.kickstarter.com/projects/1591056368/vortex-tears-of-the-abyss Vortex: Tears of the Abyss] - action RPG with roguelike elements. Goal: $25k. Ends: 7 November
+
+[https://www.kickstarter.com/projects/1352135360/magic-lost Magic Lost] - "adorably cute, fiendishly clever" point-and-click. Goal: $68k. Ends: 2 November
+
+[https://www.kickstarter.com/projects/overclockedgames/a-credible-tale-of-yokai-robots-and-the-lunar-tour A Credible Tale of Yokai, Robots, and the Lunar Tour] - action RPG/strategy game inspired by games like Chrono Trigger and Legend of Zelda. Goal: $27.9k. Ends: 26 October
+
+[https://www.kickstarter.com/projects/1928653683/top-secret-a-game-about-the-snowden-leaks Top Secret] - detective story with branching narrative, based on the Snowden leaks. Goal: £8k. Ends: 23 October
+
+[https://www.kickstarter.com/projects/ajtilleycom/club-life-visual-novel Club Life] - school based VN. Goal: £2k. Ends: 17 October. Note: Has made its goal and doesn't feel worth covering. I'm really not a fan of those overly sexualized VNs.
+
+[https://www.kickstarter.com/projects/mutantgames/super-micro-heroes Super Micro Heroes] - multiplayer online retro platformer. Goal: 10k #. Ends: 14 October
+
+[https://www.kickstarter.com/projects/852671098/sol-trader Sol Trader] - single player space game. Goal: £10k. Ends: 20 October. Note: Demo is only for Windows/Mac, but a simultaneous release is planned.
+
+[https://www.kickstarter.com/projects/interactivestone/gray-dawn Gray Dawn] - first-person horror adventure with puzzles. Goal: 50k #. Ends: 14 October. Note: Got confirmation from the developer that Linux, Windows and Mac are included in the base goal.
+
+[https://www.kickstarter.com/projects/eclipsejapan-jp/healing-process-tokyo-pc-mac Healing Process: Tokyo] - adventure platformer about coping with loss and depression. Goal: £9,120. Ends: 14 October. Note: Has experimental Linux demo and the developer has confirmed that Linux is a target, even though the campaign page isn't clear about that.
+
+[https://www.kickstarter.com/projects/1507109559/haque Haque] - a mix of ASCII roguelike with JRPG elements. Goal: $6,400. Ends: 31 October
+
+= Article content =
+
+== Intro paragraph ==
+
+Welcome to issue 51 of The Funding Crowd, where we have as many as three biggies and a bunch of exciting hidden gems to cover.
+
+But first some bad news, as editor, long-time contributor and prime mover behind The Funding Crowd, muntdefems, has decided to leave the team because of other obligations that demand increasingly more of his time, leaving him less time and energy for our triweekly crowdfunding feature. It's with a heavy heart he's made his decision, as muntdefems was the one who started The Funding Crowd and initially was its sole contributor. He also wrote a series of articles on game deals called The Cheapskate's Corner, that preceded the current sales tracker. Muntdefems has been a massive contributor to GOL that can't be easily replaced, and we thank him for his dedication over the years.
+
+We announced scaine's departure from TFC in the last issue, but even though there's few of us left, we're still determined to keep you up to date on crowdfunding campaigns for Linux. You might have noticed that each write-up has become shorter over these last few issues, and we will likely experiment a bit more with these articles to make them more manageable for a small team of contributors. If you have an opinion on these changes or want to help out with the articles, we'd love to hear from you in the comments or a PM. But for now, here's this issue's pick of interesting crowdfunding campaigns.
+
+== What Happened ==
+
+=== Losers ===
+
+Our only point-and-click last time, [https://www.kickstarter.com/projects/pins/tiny-and-tall-gleipnir/ tiny & Tall: Gleipnir], was unfortunately a bit early to benefit from the renewed interest in adventure games we've seen on Kickstarter this last week, and fell a little short of its target. In [https://www.kickstarter.com/projects/pins/tiny-and-tall-gleipnir/posts/1376389 the last update], the creator shared a survey to see if there's interest in a physical release of the comic.
+
+Action RPG platformer [https://www.indiegogo.com/projects/tiny-little-bastards Tiny Little Bastards] only managed to reach a little under half of their goal, but because the campaign used flexible funding, the creator will still get the money and intend to use it to continue development of the game.
+
+=== Winners ===
+
+Isometric shooter [https://www.kickstarter.com/projects/1926605606/12-is-better-than-6 12 is Better than 6] saw a big surge of interest over the last week of the campaign, and managed to reach their target with a few hours left on the clock.
+
+=== Still in the Running ===
+
+Turn-based co-op roguelike [https://www.kickstarter.com/projects/fortheking/for-the-king-0/ For the King] smashed through its $40k CAD goal and several stretch goals. With a few days left to go, it can still triple that and perhaps even unlock the exciting air balloon goal for air-borne travel in the game.
+
+The developers of the creative Nihilumbra still haven't reached their modest $20k goal for their 80s style RTS/RPG crossover [https://www.kickstarter.com/projects/beautifungames/megamagic-wizards-of-the-neon-age Megamagic: Wizards of the Neon Age] and now only have a couple of days to scrape together $5k.
+
+Exploration game [https://www.kickstarter.com/projects/448730379/essence ESSENCE] is much worse off, and have barely broken the 10% mark of their 60k # goal with less than two days to go. It seems like they've given up, because we haven't had an update from them in two weeks.
+
+== Biggies ==
+
+=== [https://www.indiegogo.com/projects/indivisible-an-rpg-by-lab-zero-and-505-games Indivisible] ===
+
+Banner http://i.imgur.com/XQA5aAe.png Screenshot http://i.imgur.com/xWPLipC.jpg
+
+Skullgirls developer Lab Zero Games have partnered with Defense Grid 2 (and Payday 2) publisher 505 Games to bring us a new game: [https://www.indiegogo.com/projects/indivisible-an-rpg-by-lab-zero-and-505-games Indivisible] is a side-scrolling action RPG, inspired by classics like Valkyrie Profile and Super Metroid, but with the same distinct flavor that made Skullgirls a hit. It's a good thing Skullgirls was finally released for Linux last month, since Lab Zero Games promised a Linux version as a reward for [https://www.indiegogo.com/projects/keep-skullgirls-growing their last campaign] two years ago, but didn't have a clear plan in place for porting the game, and in fact didn't deliver a Linux version until last month, when it was released as part of the [https://www.gamingonlinux.com/articles/humble-indie-bundle-15-has-launched-say-hello-to-skullgirls.5998 Humble Indie Bundle 15].
+
+According to the developers, a Linux build of the playable prototype is in the works, so if you're vary of backing, considering their history and lack of updates for Linux backers, you might want to wait for that. For this campaign they're aiming for an impressive $1.5m, and though they've cleared over $150k in pledges, the bulk of the goal remains, and the campaign has yet to be covered by most of the bigger gaming news sites. 505 Games will match funds up to the goal, but it needs to get funded first, and you can help by pledging $30 for a digital copy of the game on release. This is a fixed funding campaign, something that is unfortunately getting rare on IndieGoGo, so if the campaign fails you will get your money back. If you're interested, you can read more about the partnership on [http://www.505games.com/lab-zero-and-505-games-bring-you-indivisible 505 Games' website].
+
+=== [https://www.kickstarter.com/projects/allisonroad/allison-road-first-person-next-gen-survival-horror Allison Road] ===
+
+Banner http://i.imgur.com/xbFnm6X.png Screenshot http://i.imgur.com/t0w3Kvj.jpg
+
+[https://www.kickstarter.com/projects/allisonroad/allison-road-first-person-next-gen-survival-horror Allison Road] is a first-person survival horror game with optional VR support, developed in Unreal Engine 4. The team making the game consists of a group of veterans in the movie and game industry, with experience from movie blockbusters like The Avengers, The Hobbit and Prometheus and Sierra point-and-click classic Gabriel Knight: Sins of the Fathers. The game is a homage to the playable teaser for the cancelled Silent Hills game and features an unnamed protagonist who wakes up and finds his family gone, but has no recollection of prior events. There are dark entities lurking in the house, and the player must survive and explore to unravel the mysteries of the house and to piece together what happened to him and his family.
+
+The developer aims to ship Allison Road on Windows by the end of next year, and then tackle Linux and Mac ports. Creative endeavors are tricky to estimate though, so be prepared to wait for a while longer. To fund the game, the developers are asking for £250k (~$380k) and are well over halfway to their target with a little less than two weeks to go of the campaign. A £15 (~$24) pledge will get you a digital copy on [https://steamcommunity.com/sharedfiles/filedetails/?id=453962371 Steam] once the game is released. A playable preview that will ship before the game is planned, but it appears to only be planned for Windows. There are other nice rewards in the higher tiers though, like t-shirts and a blueprint of the house much of the game is set in.
+
+=== [https://www.kickstarter.com/projects/webeharebrained/battletech BATTLETECH] ===
+
+Banner http://i.imgur.com/fUmlgG6.png Screenshot http://i.imgur.com/tkC9e6E.png
+
+As previously [https://www.gamingonlinux.com/articles/a-new-battletech-game-from-harebrained-schemes-is-on-kickstarter-funded-already.6002 covered on GOL], Shadowrun Returns and Shadowrun: Hong Kong developer Harebrained Schemes are back on Kickstarter to fund their turn-based tactical Mech combat game [https://www.kickstarter.com/projects/webeharebrained/battletech BATTLETECH]. Their previous campaigns were extremely popular, and each saw over 30,000 backers drum together well over $1 million to get them funded. Their $250 goal was reached within the first day, and they're currently smashing through stretch goals like a Mech on a rampage.
+
+The first big stretch goal to be reached was the single-player story campaign at $1 million. Next up is the expanded mercenary campaign at $1.85m, with sub stretch goals to be announced, before the big PvP multiplayer target at $2.5m. If you're a fan of their previous games, chances are you have already backed this one, but if not, you have to put down at least $25 for a digital copy on GOG, Hubmle or Steam on release. There are no genuine Mech reward tiers, but the higher tiers offer rewards like apparel and digital goodies, so be sure to check those out.
+
+== Hidden Gems ==
+
+=== [https://www.kickstarter.com/projects/983397390/the-journey-down/ The Journey Down] ===
+
+Banner http://i.imgur.com/duTeqCk.jpg Screenshot http://i.imgur.com/IEdVDbf.gif
+
+We recently wrote about [https://www.gamingonlinux.com/articles/the-journey-down-on-kickstarter-funding-final-chapter-of-pointandclick-trilogy.6011 The Journey Down on GOL], but that won't stop us from mentioning the [https://www.kickstarter.com/projects/983397390/the-journey-down/ Kickstarter campaign] again, since the first two chapters are some of the most popular point-and-clicks of recent years (and the first chapter was available for Linux even before Steam for Linux was announced). The game was inspired by LucasArts classics like the Monkey Island series and Grim Fandango, and it has often been compared to the latter because their shared noir influence.
+
+The campaign was launched just a little over a week ago, but is already getting close to its kr 300k SEK (~$36k) goal. And with only a fifth of the target still missing, it won't be long before they'll have to pull out some stretch goals. For now, if you want to take part in this crowdfunding journey, you can pledge kr 90 SEK (~$11) for a copy of the final chapter DRM free or on Steam on release or kr 200 SEK for all three chapters. There are also some nifty rewards in the higher tiers, like a digital artbook, printed booklet, your name in the game or a canvas printed map.
+
+=== [https://www.kickstarter.com/projects/852671098/sol-trader Sol Trader] ===
+
+Banner http://i.imgur.com/weJnMYM.png Screenshot http://i.imgur.com/HLq66vU.png
+
+[https://www.kickstarter.com/projects/852671098/sol-trader Sol Trader] is a space trade and exploration game where you build social networks to help you accomplish your goals. Each new game starts with you building your character by choosing your parents and major life choices, which all contribute to shape the character you will play as. Every trade, mission and upgrade is handled through interactions with other in-game characters, and the choices you make affect their relationships to you. These social networks determine which options are available to you further down the road, and which missions you can take in the spaceflight part of the game.
+
+A simultaneous Linux, Windows and Mac release is planned, and £10 (~$15) backers will get a DRM free copy and a [http://steamcommunity.com/sharedfiles/filedetails/?id=93098528 Steam] key on release. With £6k raised so far of a £10k (~$15k) goal and a little under two weeks left, the campaign is well on its way to reach the goal. If you want to help the creator give it that little extra push, you can donate above the minimum pledge for rewards like your name in the credits or an in-game ancestor database.
+
+=== [https://www.kickstarter.com/projects/1507109559/haque Haque] ===
+
+Banner http://i.imgur.com/WmCWTyF.jpg Screenshot http://i.imgur.com/95jgurM.png
+
+[https://www.kickstarter.com/projects/1507109559/haque Haque] is a roguelike fantasy RPG about a lone champion who must fight legions of foes to prevent an apocalypse. The game has a distinct ASCII inspired style, but with influences from classic JRPGs. This is developer Kevin B. Cole's second Kickstarter campaign, after he successfully funded [https://www.kickstarter.com/projects/1507109559/project-maiden Project Maiden] two years ago. Project Maiden first featured in [https://www.gamingonlinux.com/articles/the-funding-crowd-9-july-2nd-8th.2140 TFC #9] and is now available as pay-what-you-want from [http://supertry.itch.io/projectmaiden Itch.io].
+
+In spite his previous success and a modest $6,400 goal, the creator hasn't gotten off to the best of starts, with only $1,500 pledged one week into the project. That's still a quarter of the goal, and if he can manage to keep up the same pace throughout the campaign, this project can still get funded. You can help by pledging at least $25 for a copy of the game on release, or for one of the higher rewards, like your name or a design idea in the game. Haque was [https://www.gamingonlinux.com/articles/haque-retro-roguelike-rpg-requires-riches.6038 covered on GOL] earlier this week, and hopefully that will help drum up some much needed attention.
+
+=== [https://www.kickstarter.com/projects/983902887/demetrios Demetrios] ===
+
+Banner http://i.imgur.com/s08bu8o.jpg Screenshot http://i.imgur.com/G5M4HnE.jpg
+
+There's no lack of point-and-click adventures this time, and [https://www.kickstarter.com/projects/983902887/demetrios Demetrios] is another one that looks interesting. The game is made in a comic book style and is about an antique seller who gets tangled up in a mysterious affair when he gets knocked out and robbed after stumbling home drunk one night. There's a [http://www.demetriosgame.com/en/demo/&type=download Linux demo] available, and it offers a ton of interactivity, since you can click on pretty much anything for a description or to pick up an item.
+
+Demetrios has leapt onto Kickstarter with half of the 2,500 # (~$2800) goal reached in just a couple of days. It seems destined to reach its target well ahead of schedule, and you can secure a DRM free copy on release by pledging 10 # (~$11). The creator is also seeking votes on [https://steamcommunity.com/sharedfiles/filedetails/?id=502785332 Steam Greenlight], so make sure to vote if you prefer a copy on Steam. If the Linux demo wasn't enough to convince you, developer Breton Fabrice also has several years of experience using Linux, and is dedicated to making sure the full game works well for Linux users.
+
+=== [https://www.kickstarter.com/projects/1929139578/memoranda Memoranda] ===
+
+Banner http://i.imgur.com/3RRQXaK.png Screenshot http://i.imgur.com/QAxmxC6.png
+
+The striking [https://www.kickstarter.com/projects/1929139578/memoranda Memoranda] popped out of nowhere earlier this week, and even though we already had a bunch of point-and-clicks for this issue, we couldn't help but include it. There's more to this game than the unmistakable art style though, as it is based on short stories by the renowned author Haruki Murakami and is about a protagonist, who little by little is starting to forget her own name.
+
+We weren't the only ones to be caught by surprise by Memoranda's arrival on Kickstarter as it appears to have had little to no self-marketing in advance. As a result, the campaign got off to a bit of a slow start, but has slowly been picking up speed and is now at $3k CAD of the $18k CAD goal. You can spur the campaign on by pledging $16 CAD (~$12 USD) for a digital copy on release, or a bit more for the usual rewards like your name in the credits, a digital art book or a poster.
+
+=== [https://www.kickstarter.com/projects/1928653683/top-secret-a-game-about-the-snowden-leaks Top Secret] ===
+
+Banner http://i.imgur.com/0tam1tC.png
+
+[https://www.kickstarter.com/projects/1928653683/top-secret-a-game-about-the-snowden-leaks Top Secret] is a fictional detective story based on the real events of the Snowden surveillance leaks. The game will be played with real encryption methods and uses email, but there will also be a DRM free version that can be played offline. There's a [https://playtopsecret.com/demo.html demo available] for you to try, and if it piques your interest, you can pledge £5 (~$8) for a copy of the game. With almost two weeks to go, the campaign looks well on its way to the £8k (~$12k) target.
+
+=== [https://www.kickstarter.com/projects/1591056368/vortex-tears-of-the-abyss Vortex: Tears of the Abyss] ===
+
+Banner http://i.imgur.com/ZlbFcyO.jpg
+
+[https://www.kickstarter.com/projects/1591056368/vortex-tears-of-the-abyss Vortex: Tears of the Abyss] is a Zelda-esque action RPG that hasn't received much attention on Kickstarter, in spite of already being [http://steamcommunity.com/sharedfiles/filedetails/?id=521462874 greenlit on Steam]. There's still almost four weeks left of the campaign though, and hopefully it can gather some much needed momentum to get closer to that $25k goal. A $12 pledge will get you a DRM free copy and a Steam key on release, and there are still some $10 early bird rewards left.
+
+== Conclusion ==
+
+It's not fun to see good and deserving projects struggle, and there are two such deserving projects that we didn't include in the main picks this time because Linux support is still up in the air for different reasons.
+
+[https://www.kickstarter.com/projects/roguerocket/first-wonder First Wonder], the spiritual sequel to MDK and Giants: Citizen Kabuto that we mentioned as an upcoming campaign in the conclusion last time, looks like it will be getting a Linux version, since the developers are eager to support Linux. However, they want to make sure they can get the alpha build to run well on their Linux rigs before making a firm committment. The game is a third-person shooter adventure with asymmetric multiplayer, where you play as either the jetpack-wielding Cargonauts or the huge creature Monstro. Because of the aforementioned reasons we can't exactly recommend you back this one, but it's worth keeping an eye on in case there's a turn of events during the two weeks left of the campaign.
+
+Similarly, the developers of the African action RPG [https://www.kickstarter.com/projects/plugindigitallabel/aurion-legacy-of-the-kori-odan Aurion: Legacy of the Kori-Odan] haven't officially included Linux as part of their base goal, but has stated that they will do their best to provide Linux and Mac versions regardless of the outcome of the campaign. With their lower goal of 40k # (~$45k) they look in much better shape to reach their goal, but rely on more backers to collect the remaining half of their target in less than two weeks. The African style graphics and the legends the game is based on make this one stand out, but remember that with a limited budget, Windows is certain to be their number one priority if they manage to get funded.
+
+== New-pick banners ==
+
+Banner Height = 125px 
+
+Banner Width = 300px ± ~25px
+
+Placement number 
+* font
+** 30pt 
+** Nimbus Sans L Bold Italic 
+* shadow 
+** gaussian blur radius 10
+** move 2,4
+** dark text only: 60% layer opacity 
+
+<PROJECT 1>: <IMAGE LINK 1>
+
+<PROJECT 2>: <IMAGE LINK 2>
+

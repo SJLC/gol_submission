@@ -27,6 +27,8 @@ def read_wiki_data(input_filename):
             article_sections["loser_paragraphs"] = section.string
         elif section.title == " Winners ":
             article_sections["winner_paragraphs"] = section.string
+        elif section.title == " Still in the Running ":
+            article_sections["running_paragraphs"] = section.string
         elif section.title == " Biggies ":
             article_sections["biggie_paragraphs"] = section.string
         elif section.title == " Hidden Gems ":
@@ -61,7 +63,7 @@ def reformat_wiki_data(input_filename):
 
     # fix up the easy ones
     reformatted_sections = {}
-    for section in ["intro_paragraph", "loser_paragraphs", "winner_paragraphs", "conclusion_paragraph"]:
+    for section in ["intro_paragraph", "loser_paragraphs", "winner_paragraphs", "running_paragraphs", "conclusion_paragraph"]:
         text = article_sections[section]
         # strip off section title
         text = re.sub(r"^=+[^=]+=+\n","", text)
